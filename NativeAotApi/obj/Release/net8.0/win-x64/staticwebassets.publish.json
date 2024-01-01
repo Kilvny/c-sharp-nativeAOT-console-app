@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BdX2eilwsccYNG31utotp1L485+313uAX5R8AVhzd50=",
+  "Source": "NativeAotApi",
+  "BasePath": "_content/NativeAotApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,7 @@
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\NativeAotApi.exe
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\appsettings.Development.json
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\appsettings.json
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\NativeAotApi.dll
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\NativeAotApi.deps.json
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\NativeAotApi.runtimeconfig.json
+D:\kilany-workspace\NativeAotApi\NativeAotApi\bin\Release\net8.0\publish\NativeAotApi.pdb
